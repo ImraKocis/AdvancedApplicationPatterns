@@ -1,1 +1,7 @@
 node_modules
+/.idea/jsLibraryMappings.xml
+/.idea/modules.xml
+/.idea/patterns.iml
+/.idea/prettier.xml
+/02-Factory/product.txt
+/.idea/vcs.xml
